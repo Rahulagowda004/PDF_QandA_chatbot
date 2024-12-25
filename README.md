@@ -39,7 +39,7 @@ LangChain simplifies the integration of these components by providing tools to:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Rahulagowda004/RETRIEVAL-AUGMENTED-GENERATION.git
    ```
 
 2. **Install required dependencies**:
